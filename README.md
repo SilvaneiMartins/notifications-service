@@ -2,16 +2,6 @@
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
 
-<h1 align="center">
-    <a href="https://imgur.com/03AnreL"><img src="https://i.imgur.com/03AnreL.png" title="source: imgur.com" /></a>
-    <br />
-    <a href="https://imgur.com/gQq6iiw"><img src="https://i.imgur.com/gQq6iiw.png" title="source: imgur.com" /></a>
-</h1>
-
-## Informação do projeto
-
-Este projeto foi desenvolvido durante o treinamento Ignite Lab Node.js utilizando as seguinte ferramentas Nest Js, Node js, Typescript e Prisma junto com banco de dados SQLite, com o objetivo de criar uma aplicação de notificação de envio de notificação para qualquer aplicação. Qualquer aplicação será capaz de consumir está api.
-
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
 
@@ -29,6 +19,16 @@ Este projeto foi desenvolvido durante o treinamento Ignite Lab Node.js utilizand
     <a href="https://opencollective.com/nest#sponsor"  target="_blank"><img src="https://img.shields.io/badge/Support%20us-Open%20Collective-41B883.svg" alt="Support us"></a>
   <a href="https://twitter.com/nestframework" target="_blank"><img src="https://img.shields.io/twitter/follow/nestframework.svg?style=social&label=Follow"></a>
 </p>
+
+<h1 align="center">
+    <a href="https://imgur.com/03AnreL"><img src="https://i.imgur.com/03AnreL.png" title="source: imgur.com" /></a>
+    <br />
+    <a href="https://imgur.com/gQq6iiw"><img src="https://i.imgur.com/gQq6iiw.png" title="source: imgur.com" /></a>
+</h1>
+
+## Informação do projeto
+
+Este projeto foi desenvolvido durante o treinamento Ignite Lab Node.js utilizando as seguinte ferramentas Nest Js, Node js, Typescript e Prisma junto com banco de dados SQLite, com o objetivo de criar uma aplicação de notificação de envio de notificação para qualquer aplicação. Qualquer aplicação será capaz de consumir está api.
 
 ## Descrição
 
