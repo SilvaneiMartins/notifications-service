@@ -21,7 +21,6 @@
 </p>
 
 <h1 align="center">
-    <br />
     <a href="https://imgur.com/03AnreL"><img src="https://i.imgur.com/03AnreL.png" title="source: imgur.com" /></a>
     <br />
     <a href="https://imgur.com/gQq6iiw"><img src="https://i.imgur.com/gQq6iiw.png" title="source: imgur.com" /></a>
@@ -29,7 +28,6 @@
     <a href="https://imgur.com/ZL3xz7Q"><img src="https://i.imgur.com/ZL3xz7Q.png" title="source: imgur.com" /></a>
     <br />
     <a href="https://imgur.com/3GIPNmg"><img src="https://i.imgur.com/3GIPNmg.png" title="source: imgur.com" /></a>
-    <br />
 </h1>
 
 ## Informação do projeto
