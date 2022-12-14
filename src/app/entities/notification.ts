@@ -1,7 +1,8 @@
-/* eslint-disable prettier/prettier */
+import { Content } from './content';
+
 export interface INotificationProps {
   recipientId: string;
-  content: string;
+  content: Content;
   category: string;
   readAt?: Date | null;
   createdAt: Date;
@@ -10,7 +11,7 @@ export interface INotificationProps {
 export class Notification {
   private props: INotificationProps;
 
-  constructor(props:  INotificationProps) {
+  constructor(props: INotificationProps) {
     this.props = props;
   }
 
@@ -22,11 +23,11 @@ export class Notification {
     return this.props.recipientId;
   }
 
-  public set content(content: string) {
+  public set content(content: Content) {
     this.props.content = content;
   }
 
-  public get content(): string {
+  public get content(): Content {
     return this.props.content;
   }
 
@@ -38,7 +39,7 @@ export class Notification {
     return this.props.category;
   }
 
-  public set readAt(readAt: Date | null | undefined ) {
+  public set readAt(readAt: Date | null | undefined) {
     this.props.readAt = readAt;
   }
 
